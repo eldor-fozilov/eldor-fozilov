@@ -35,9 +35,9 @@ I always seek opportunities to expand my knowledge, stay updated with the latest
 - **[Machine Learning Engineering for Production Specialization](https://github.com/eldor-fozilov/first-dance-with-MLOps)** – DeepLearning.AI specialization covering scalable production pipelines, ML model deployment, and MLOps best practices.
 - **[Deep Learning Specialization](https://github.com/eldor-fozilov/my-first-steps-into-deep-learning)** – Taught by Andrew Ng, focusing on neural networks, convolutional networks, and sequence models for real-world AI tasks.
 - **[Applied Data Science with Python Specialization](https://github.com/eldor-fozilov/applied-data-science-with-python)** – University of Michigan course series focusing on Python-based data analysis, including Pandas, Matplotlib, and machine learning fundamentals.
-- **[Statistical Learning](https://github.com/eldor-fozilov/statistical-learning)** – Stanford Online course covering supervised and unsupervised learning, linear regression, and classification methods.
+- **[Statistical Learning](https://courses.edx.org/certificates/59f809113f1248c3a70a18f62dccc495)** – Stanford Online course covering supervised and unsupervised learning, linear regression, and classification methods.
 - **[Machine Learning](https://github.com/eldor-fozilov/machine-learning-course-stanford)** – Classic Coursera course by Andrew Ng, covering algorithms, supervised/unsupervised learning, and neural networks.
-- **[Mathematics for Machine Learning Specialization](https://github.com/eldor-fozilov/mathematics-for-machine-learning)** – Imperial College London specialization focusing on linear algebra, calculus, and statistics for machine learning foundations.
+- **[Mathematics for Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R5GU7JE75P8V)** – Imperial College London specialization focusing on linear algebra, calculus, and statistics for machine learning foundations.
 
 ## 🎓 Languages
 I am fluent in **Uzbek, Russian, English**, and intermediate in **Korean** (working on improving it)! 🇺🇿 🇷🇺 🇬🇧 🇰🇷
