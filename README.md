@@ -19,13 +19,6 @@ I always seek opportunities to expand my knowledge, stay updated with the latest
   - **LLMs**: LoRA/QLoRA, RLHF/DPO Fine-tuning, Retrieval-Augmented Generation (RAG) Integration, Quantization, Multimodal LLM Adaptation, Synthetic Data Creation, Prompt Engineering
   - **Traditional ML**: Linear/Logistic Regression, Support Vector Machines (SVM), XGBoost, Principal Component Analysis (PCA), K-means Clustering, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN/LSTM)
 
-## 🔬 Projects
-- **[Uzbek LLMs](https://huggingface.co/behbudiy)**: Enhanced open-source LLMs for the low-resource Uzbek language through language-specific continual pretraining and instruction-tuning. The models are hosted on Hugging Face for broad accessibility.
-- **[Guessing Game with Robot Arm](https://github.com/eldor-fozilov/guessing-game-with-robot)**: Designed a robotic system integrated with vision-language models like InternVL and YOLO-World to play an interactive guessing game, interpreting user clues to identify and pick objects.
-- **[Ethereum Gas Fee Prediction](https://github.com/eldor-fozilov/ethereum-gas-price-prediction)**: Utilized advanced time series models such as SARIMA and LSTM to predict hourly gas fees on the Ethereum network.
-- **[Portfolio Allocation Stability with CorrGAN](https://github.com/eldor-fozilov/corrGAN-for-testing-the-stability-of-portfolio-allocation-methods)**: Investigated the stability of traditional and machine learning-powered portfolio allocation approaches using GAN-based models.
-- **[Data Structures for All Tastes](https://github.com/eldor-fozilov/data-structures-for-all-tastes)**: Implemented a variety of data structures from scratch in C++, ranging from simple ones like Linked Lists to more advanced types such as Balanced Binary Search Trees.
-
 ## 🏆 Awards & Scholarships
 - **Lotte Scholarship for International Master's Students**: Awarded by the Lotte Scholarship Foundation for students with exceptional research potential in Korea, providing KRW 12,000,000 per year for the duration of graduate studies.
 - **Korean Government Scholarship for Graduate Studies**: Comprehensive scholarship including a tuition fee waiver and a stipend of KRW 9,600,000 per year throughout graduate studies at UNIST.
