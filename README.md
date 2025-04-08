@@ -43,4 +43,4 @@ I always seek opportunities to expand my knowledge, stay updated with the latest
 - **[Mathematics for Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R5GU7JE75P8V)** – Imperial College London specialization focusing on linear algebra, calculus, and statistics for machine learning foundations.
 
 ## 🎓 Languages
-I am fluent in **Uzbek, Russian, English**, and intermediate in **Korean**! 🇺🇿 🇷🇺 🇬🇧 🇰🇷
+I am native in **🇺🇿 Uzbek**, fluent in **🇷🇺 Russian** and **🇬🇧 English**, intermediate in **🇰🇷 Korean**!
