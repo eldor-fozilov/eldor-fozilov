@@ -14,7 +14,8 @@ I always seek opportunities to expand my knowledge, stay updated with the latest
 
 ## 🛠 Skills
 - **Programming Languages**: Python, C++, JavaScript, R
-- **Frameworks & Tools**: Pytorch, HuggingFace, LangChain, LLaMAFactory, Unsloth, DeepSpeed, FastAPI, OpenCV, Scikit-learn, Docker
+- **Frameworks & Tools**: Pytorch, HuggingFace, LangChain, LLaMAFactory, Unsloth, DDP, DeepSpeed,\
+FastAPI, Numpy, Pandas, OpenCV, Scikit-learn, Git, Docker, Latex
 - **AI/ML Expertise**:
   - **LLMs**: LoRA/QLoRA, RLHF/DPO Fine-tuning, Retrieval-Augmented Generation (RAG) Integration, Quantization, Multimodal LLM Adaptation, Synthetic Data Creation, Prompt Engineering
   - **Traditional ML**: Linear/Logistic Regression, Support Vector Machines (SVM), XGBoost, Principal Component Analysis (PCA), K-means Clustering, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN/LSTM)
