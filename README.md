@@ -20,7 +20,7 @@ FastAPI, Numpy, Pandas, OpenCV, Scikit-learn, Git, Docker, Latex
   - **LLMs**: LoRA/QLoRA, RLHF/DPO Fine-tuning, Retrieval-Augmented Generation (RAG) Integration, Quantization, Multimodal LLM Adaptation, Synthetic Data Creation, Prompt Engineering
   - **Computer Vision**: VLMs, CLIP, Image Classification (ResNet, ViT), Object Detection (YOLO, RT-DETR), \
     Semantic Segmentation (U-Net, SAM), 3D Reconstruction (Gaussian Splatting)
-  - **Traditional ML**: Linear/Logistic Regression, Support Vector Machines (SVM), XGBoost, Principal Component Analysis (PCA), K-means Clustering, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN/LSTM)
+  - **Traditional ML**: Linear/Logistic Regression, Support Vector Machines (SVM), XGBoost, Principal Component Analysis (PCA), K-means Clustering, CNN, RNN/LSTM
 
 ## 🔬 Projects
  - **[RingFormer](https://github.com/eldor-fozilov/ringformer)**: Constructed a parameter-efficient and recurrent version of transformer models, named RingFormer, which maintains strong performance with significantly fewer parameters compared to the original transformer models across translation and image-classification tasks. 
