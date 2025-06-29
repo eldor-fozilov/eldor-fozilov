@@ -18,6 +18,8 @@ I always seek opportunities to expand my knowledge, stay updated with the latest
 FastAPI, Numpy, Pandas, OpenCV, Scikit-learn, Git, Docker, Latex
 - **AI/ML Expertise**:
   - **LLMs**: LoRA/QLoRA, RLHF/DPO Fine-tuning, Retrieval-Augmented Generation (RAG) Integration, Quantization, Multimodal LLM Adaptation, Synthetic Data Creation, Prompt Engineering
+  - **Computer Vision**: VLMs, CLIP, Image Classification (ResNet, ViT), Object Detection (YOLO, RT-DETR), \
+    Semantic Segmentation (U-Net, SAM), 3D Reconstruction (Gaussian Splatting)
   - **Traditional ML**: Linear/Logistic Regression, Support Vector Machines (SVM), XGBoost, Principal Component Analysis (PCA), K-means Clustering, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN/LSTM)
 
 ## 🔬 Projects
