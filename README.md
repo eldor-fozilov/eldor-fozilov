@@ -6,7 +6,7 @@
 </p>
 
 ## 🚀 About Me
-I am a **Master’s student in Computer Science & Engineering** at [UNIST](https://www.unist.ac.kr/) and a researcher at the [Interactive Multimodal ML Lab](https://sites.google.com/view/mvllab). My passion lies in exploring the frontiers of research and develop cutting-edge algorithms in the area of multimodal learning, particularly in the integration of vision and language. I am also interested in advancing the understanding and transparency of AI models. By bridging the gap between AI and human understanding, I aim to build more trustworthy and ethical AI systems that can be effectively utilized across various domains.
+My passion lies in exploring the frontiers of research and develop cutting-edge algorithms in the area of multimodal learning, particularly in the integration of vision and language. I am also interested in advancing the understanding and transparency of AI models. By bridging the gap between AI and human understanding, I aim to build more trustworthy and ethical AI systems that can be effectively utilized across various domains.
 
 Besides my research interests, I have a broad interest in fintech, data science and the design / deployment of ML systems. I find great fascination in the practical application of machine learning techniques and their potential to solve real-world problems.
 
